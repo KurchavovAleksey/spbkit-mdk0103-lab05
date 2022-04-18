@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab05Notes</string>
+    <string name="button_new">New</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+    <string name="title_colon">Title:</string>
+    <string name="title">Title</string>
+    <string name="content_colon">Content:</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_dialog">Are you sure?</string>
+    <string name="author">Курчавов Алексей 204 группа СПБКИТ</string>
+</resources>
